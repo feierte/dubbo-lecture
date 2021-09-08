@@ -28,7 +28,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-        <dubbo.version>2.7.8</dubbo.version>
+        <dubbo.version>2.7.13</dubbo.version>
     </properties>
 
     <dependencyManagement>
